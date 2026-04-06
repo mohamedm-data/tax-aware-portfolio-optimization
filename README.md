@@ -4,7 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Solver: ECOS_BB](https://img.shields.io/badge/Solver-ECOS__BB-blue?style=flat-square)](https://github.com/embotech/ecos)
 [![Solver: OSQP](https://img.shields.io/badge/Solver-OSQP-orange?style=flat-square)](https://osqp.org/)
-[![Course](https://img.shields.io/badge/Course-MATH%204100-red?style=flat-square)](https://www.wit.edu/)
 
 > **MATH 4100 – Industrial Problems in Applied Mathematics**
 > Wentworth Institute of Technology
